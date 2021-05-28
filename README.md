@@ -150,7 +150,7 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 </a>
 
 </a>
-<a href="https://github.com/AnikG-Org/github-readme-stats">
+<a href="https://github.com/Anik-G/github-readme-stats">
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anik-G&layout=compact&theme=radical" />
 </a>
@@ -159,7 +159,7 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 
 <b>My GitHub contributions as a Game of Life</b>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/AnikG-Org.gif?z=6)](https://github4life.herokuapp.com/AnikG-Org)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Anik-G.gif?z=6)](https://github4life.herokuapp.com/Anik-G)
 
 ##
 
