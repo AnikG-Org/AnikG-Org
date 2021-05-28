@@ -96,7 +96,7 @@
 
 ## Technical Skills 🛠 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical person. So these technical skills of the engineer always help, in the same way at all the time, Just as <b>Warrior</b> protects his life from his enemies using the weapons and scriptures in a war. And I am also an Engineer. :).
+As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical person. So these technical skills of the engineer always help, in the same way at all the time, Just as <b>Warrior</b> protects his life from his enemies using the weapons and scriptures in a war. And I'm also an Engineer. :).
 
 [![AWS](https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
