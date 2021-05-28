@@ -105,7 +105,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 [![Jenkins](https://img.shields.io/badge/CI%20CD-Jenkins-%E34F26?style=flat-square&logo=Jenkins&logoColor=red)](https://www.jenkins.io/)
-[![Grafana](https://img.shields.io/badge/Monitoring%20DevOps-Grafana-%000000?style=flat-square&logo=Grafana&logoColor=orange)](https://grafana.com/)
+[![Grafana](https://img.shields.io/badge/Monitoring%20DevOps-Grafana-%ffa500?style=flat-square&logo=Grafana&logoColor=orange)](https://grafana.com/)
 [![prometheus](https://img.shields.io/badge/Monitoring%20DevOps-prometheus-%E34F26?style=flat-square&logo=prometheus&logoColor=red)](https://prometheus.io/)
 [![Zabbix](https://img.shields.io/badge/Monitoring%20DevOps-Zabbix-%E34F26?style=flat-square&logo=zabbix&logoColor=red)](https://www.zabbix.com/)
 
