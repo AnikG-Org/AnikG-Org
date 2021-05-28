@@ -27,7 +27,7 @@
     <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
   <p align="center">
-    <a href="readme.md">Français </a>
+    <a href="README.md">Français </a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
     ·
