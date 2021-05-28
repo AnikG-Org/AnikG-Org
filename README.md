@@ -119,7 +119,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
-![MS Teams](https://img.shields.io/badge/-MS%20Teams-E01563?style=flat-square&logo=Teams&logoColor=blue)
+![MS Teams](https://img.shields.io/badge/-MS%20Teams-8a2be2?style=flat-square&logo=Teams&logoColor=blue)
 
 
  
