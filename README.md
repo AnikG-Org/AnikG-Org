@@ -79,7 +79,7 @@
 
 <div>
  <p>
-  <img width="180" height="200" align='right' src="https://github.com/AnikG-Org/AnikG-Org/blob/main/IMG_20210119_111745.jpg"> 
+  <img width="170" height="200" align='right' src="https://github.com/AnikG-Org/AnikG-Org/blob/main/IMG_20210119_111745.jpg"> 
 </p>
   
 ## About Me ✍
