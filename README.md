@@ -95,7 +95,7 @@
 ## My Profile (Curriculum vitae) >>> 📑
 
 
-< [![CV](https://img.shields.io/badge/CV-Anik_Guha-%E34F26?style=flat-square&logo=amazon-aws&logoColor=white)](https://drive.google.com/folderview?id=1zAdTW3GqGix7-V42JaEbpALBv9ZQLxhb) />
+< [![CV](https://img.shields.io/badge/CV-Anik_Guha-%E34F26?style=flat-square&logo=amazon-aws&logoColor=orange)](https://drive.google.com/folderview?id=1zAdTW3GqGix7-V42JaEbpALBv9ZQLxhb) />
 
 
 
