@@ -1,4 +1,4 @@
-### Hello Network ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am ANIK G 👨‍🎓
+### Hello Network ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anik G 👨‍🎓
 
 <p align="center">
   <img src="https://github.com/AnikG-Org/AnikG-Org/blob/main/code.gif" width="414" height="320" />
