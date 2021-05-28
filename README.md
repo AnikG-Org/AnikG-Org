@@ -1,6 +1,6 @@
 ### Hello Network ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anik G 👨‍🎓   
 <p align="right">
- [![AWS](https://img.shields.io/badge/IT%20PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=orrange)](https://www.linkedin.com/in/anik-guha/)
+ [![AWS](https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
