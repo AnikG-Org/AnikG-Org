@@ -86,11 +86,19 @@
  <b>ELECTRONICS & COMMUNICATION ENGINEER BY CERTIFICATION </b>
   -- <b>IT PROFESSIONAL BY PASSION </b>
 
- I m <b> ANIK </b>, I’ve 5.5 year+(counting) of IT Experience(as of may, 2021) in Digital IT Infrastructure domain like <b>(AWS, Azure, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> ANIK </b>, I’ve 5.5 year+(counting) of IT Experience(as of may, 2021) in Digital IT Infrastructure domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 
 </div>
+
+## My Profile (Curriculum vitae) >>> 📑
+
+
+< [![CV](https://img.shields.io/badge/CV-Anik_Guha-%E34F26?style=flat-square&logo=Jenkins&logoColor=red)](https://drive.google.com/folderview?id=1zAdTW3GqGix7-V42JaEbpALBv9ZQLxhb) />
+
+
+
 
 <!--technical skill-->
 
@@ -129,14 +137,6 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 Having a hobby is a <b>great thing</b> for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of Technical articles  I have also started writing so that I could make my hobby as my profession . I love to spend some time with cooking .
-
-
-
-## My Profile (Curriculum vitae) >>> 📑
-
-
-< [![CV](https://img.shields.io/badge/CV-Anik_Guha-%E34F26?style=flat-square&logo=Jenkins&logoColor=red)](https://drive.google.com/folderview?id=1zAdTW3GqGix7-V42JaEbpALBv9ZQLxhb)" />
-
 
 
 
