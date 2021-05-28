@@ -7,10 +7,9 @@
 </p>
   <p align="center">
     <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/AnikG-Org/devops-practice/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+      <img alt="AWS" src="https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev) />
+     
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
     </a>
     </a>
     </a>
