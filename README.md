@@ -101,7 +101,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![AWS](https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
-[![Terraform](https://img.shields.io/badge/knowledge%20on-Terraform-%235849a6.svg)](https://registry.terraform.io/)
+[![Terraform](https://img.shields.io/badge/IAAC%20with-Terraform-%235849a6.svg)](https://registry.terraform.io/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 [![Jenkins](https://img.shields.io/badge/CI%20CD-Jenkins-%E34F26?style=flat-square&logo=Jenkins&logoColor=red)](https://www.jenkins.io/)
@@ -119,6 +119,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+![MS Teams](https://img.shields.io/badge/-MS%20Teams-E01563?style=flat-square&logo=Teams&logoColor=blue)
 
 
  
