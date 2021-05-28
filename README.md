@@ -6,17 +6,15 @@
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/AnikG-Org/devops-practice/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -31,9 +29,9 @@
   <p align="center">
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -142,9 +140,9 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
  ## Quick Overview 📝
  
  <a href="https://github.com/AnikG-Org/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anik15727@gmail.com&show_icons=true&include_all_commits=true&theme=radical" alt="AnikG-Org's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anik15727@gmail.com&show_icons=true&include_all_commits=true&theme=radical" alt="AnikG-Org/devops-practice's github stats" />
 </a>
-<a href="https://github.com/AnikG-Org/github-readme-stats">
+<a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats">
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anik15727@gmail.com&layout=compact&theme=radical" />
 </a>
