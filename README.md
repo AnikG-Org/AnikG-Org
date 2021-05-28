@@ -133,11 +133,13 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 
 
 ## My Profile (Curriculum vitae) >>> 📑
-</a>
 
+</a>
 < [![CV](https://img.shields.io/badge/CV-Anik_Guha-%E34F26?style=flat-square&logo=Jenkins&logoColor=red)](https://drive.google.com/folderview?id=1zAdTW3GqGix7-V42JaEbpALBv9ZQLxhb)" />
 
 </a> 
+
+
  ## Quick Overview 📝
  
  <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats">
