@@ -6,8 +6,8 @@
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/actions">
-      <img alt="AWS" src="https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev) />
+    <a href="[![AWS](https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)">
+      <img alt="AWS" src="https://github.com/br3ndonland/awsdev" />
      
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
     </a>
