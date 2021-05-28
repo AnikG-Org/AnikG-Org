@@ -1,4 +1,4 @@
-### Hello Network ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anik G 👨‍🎓   
+### Hello Network ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anik G 👨‍🎓
 <p align="right">
  [![AWS](https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 </p>
