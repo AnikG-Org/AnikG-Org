@@ -143,7 +143,7 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
  ## Quick Overview 📝
  
  
- <a href="https://github.com/AnikG-Org/github-readme-stats">
+<a href="https://github.com/AnikG-Org/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anik-G&show_icons=true&include_all_commits=true&theme=radical" alt="AnikG-Org/devops-practice's github stats" />
  
 </a> 
@@ -156,8 +156,21 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 </a>
 
 ###
+ 
+<a href="https://github.com/Anik-G/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anik-G&show_icons=true&include_all_commits=true&theme=radical" alt="AnikG-Org/devops-practice's github stats" />
+ 
+</a> 
+</a>
+
+</a>
+<a href="https://github.com/Anik-G/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anik-G&layout=compact&theme=radical" />
+</a>
 
 
+###
 
 <!--footer-->
 
