@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnikG-Org/AnikG-Org/blob/main/devops.JPG" width="270" height="290" />
+  <img src="https://github.com/AnikG-Org/AnikG-Org/blob/main/devops.JPG" width="270" height="260" />
 </p>
 
 <p align="center">
