@@ -95,6 +95,7 @@
 ## Global Certifications(IT) >>>
 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/6c366bc7-1e49-48f4-a8b4-2d2dde503c5b?source=linked_in_profile)
+[![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-e-232F7E?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile)
  [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-%E34F26?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile)
  [![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile)
 
