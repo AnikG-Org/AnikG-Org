@@ -96,13 +96,13 @@
 
 
 
-< [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-%E34F26?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile) />
+ [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-%E34F26?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile)
+ [![AWS](https://img.shields.io/badge/AWS+Certified+Solutions+Architect+–+Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile)
 
 ## My Profile (Curriculum vitae) >>> 📑
 
 
 < [![CV](https://img.shields.io/badge/CV-Anik_Guha-%E34F26?style=flat-square&logo=amazon-aws&logoColor=orange)](https://drive.google.com/folderview?id=1zAdTW3GqGix7-V42JaEbpALBv9ZQLxhb) />
-
 
 
 
