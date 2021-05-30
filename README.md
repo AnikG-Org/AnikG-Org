@@ -124,6 +124,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![Grafana](https://img.shields.io/badge/Monitoring%20DevOps-Grafana-%ffa500?style=flat-square&logo=Grafana&logoColor=orange)](https://grafana.com/)
 [![prometheus](https://img.shields.io/badge/Monitoring%20DevOps-prometheus-FF4500?style=flat-square&logo=prometheus&logoColor=red)](https://prometheus.io/)
 [![Zabbix](https://img.shields.io/badge/Monitoring%20DevOps-Zabbix-FF0000?style=flat-square&logo=zabbix&logoColor=red)](https://www.zabbix.com/)
+[![OpsGenie](https://img.shields.io/badge/Monitoring%20DevOps-OpsGenie-0000CD?style=flat-square&logo=Opsgenie&logoColor=red)](https://www.atlassian.com/software/opsgenie)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
