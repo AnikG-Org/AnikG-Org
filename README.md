@@ -134,6 +134,10 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  ## DevOps Codes 📝
 
   https://github.com/AnikG-Org/devops-practice
+  
+  <p align="center">
+  <img src="https://github.com/AnikG-Org/AnikG-Org/blob/main/Devops1.jpeg" width="614" height="350" />
+</p>
  
  ## My Hobbies ✍
 
