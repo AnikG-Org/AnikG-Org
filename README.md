@@ -117,6 +117,8 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
+[![AWS CI-CD](https://img.shields.io/badge/AWS-CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-232F7E?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/en-in/services/devops/)
 [![Terraform](https://img.shields.io/badge/IAAC%20with-Terraform-%235849a6.svg)](https://registry.terraform.io/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
