@@ -139,7 +139,8 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 Having a hobby is a <b>great thing</b> for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of Technical articles  I have also started writing so that I could make my hobby as my profession . I love to spend some time with cooking . 
-I do love traveling. I always wanted to go to Japan / countries in Europe. It's a very beautiful country with an interesting culture,  which has the most — and most diverse — natural resources in the world
+
+<b> I do love traveling.</b> I always wanted to go to Japan / countries in Europe. It's a very beautiful country with an interesting culture,  which has the most — and most diverse — natural resources in the world
 
 
 
