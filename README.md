@@ -94,7 +94,9 @@
 
 ## Global Certification badges >>>
 
-https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile
+
+
+< [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-%E34F26?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile) />
 
 ## My Profile (Curriculum vitae) >>> 📑
 
