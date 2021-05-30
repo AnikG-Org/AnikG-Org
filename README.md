@@ -104,7 +104,7 @@
 
 ## Technical Skills 🛠 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical person. So these technical skills of the engineer always help, in the same way at all the time, Just as <b>Warrior</b> protects his life from his enemies using the weapons and scriptures in a war. And I'm an Engineer. :).
+As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical person. So these technical skills of the engineer always help, in the same way at all the time, Just as <b>Warrior</b> protects his life from his enemies using the weapons and scriptures in a war. And I'm an Engineer 😊.
 
 
 
