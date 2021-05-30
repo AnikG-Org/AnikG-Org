@@ -114,7 +114,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 
 
-[![AWS](https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
 [![Terraform](https://img.shields.io/badge/IAAC%20with-Terraform-%235849a6.svg)](https://registry.terraform.io/)
