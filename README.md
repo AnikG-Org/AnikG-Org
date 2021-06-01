@@ -50,7 +50,7 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">Love this Profile? Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-Anik-green?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/anik-guha)]
+<p align="center">Love this Profile? Let's connect! 
 
 
 <p>
