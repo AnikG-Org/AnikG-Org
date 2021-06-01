@@ -50,7 +50,7 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">Love the project?
+<p align="center">Love this project?
 
 
 <p>
