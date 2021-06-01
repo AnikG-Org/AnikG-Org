@@ -20,9 +20,9 @@
   </p>
 
   <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="#demo">View Me</a>
     ·
-    <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/issues/new/choose">Report Service</a>
     ·
     <a href="https://github.com/AnikG-Org/devops-practice/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
