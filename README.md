@@ -1,4 +1,4 @@
-### Hello | Hallo | Kon'nichiwa | Bonjour
+### Hello | Hallo | Kon'nichiwa | Bonjour | Ciao | Olá | Merhaba | নমস্কার 
 ### Network ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anik G 👨‍🎓
 
 <p align="center">
