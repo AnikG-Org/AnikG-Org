@@ -87,7 +87,7 @@
  <b>ELECTRONICS & COMMUNICATION ENGINEER BY CERTIFICATION </b>
   -- <b>IT PROFESSIONAL BY PASSION </b>
 
- I'm <b> ANIK </b>, I’ve 5.5 year+(counting) of IT Experience(as of may, 2021) in Digital IT Infrastructure domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b> ANIK </b>, I’ve 5.5 year+(counting) of IT Experience(as of may, 2021) in Digital IT Infrastructure domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind popular Technological Fields. 
 
 
 
