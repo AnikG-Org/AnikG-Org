@@ -96,6 +96,7 @@
 ## Global Certifications(IT) 
 
 
+[![GitOps with ArgoCD](https://img.shields.io/badge/GitOps%20%20Fundamentals-232F7E?style=flat-square&logo=Codefresh-GitOps-Certified)](https://codefresh.learnworlds.com/certificate/6197cb3b2fbcec4da328aab2/user/61babbd1315a475fa83cb7d6)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20DevOps%20Expert%20AZ%20400-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/61f4f21f-22de-4e8d-b91b-a30420b65f20)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/6c366bc7-1e49-48f4-a8b4-2d2dde503c5b?source=linked_in_profile)
  [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-FF0000?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile)
