@@ -95,7 +95,7 @@
 
 ## Global Certifications(IT) 
 
-[![Pagerduty Fundamentals](https://img.shields.io/badge/Pagerduty%20%20Fundamentals-2E7E23?style=flat-square&logo=Git)](https://www.credly.com/badges/58514939-f430-4579-a710-8b92a7a7b074?source=linked_in_profile)
+[![Pagerduty Fundamentals](https://img.shields.io/badge/PagerDuty%20Foundational%20Practitioner%20-Certification-green)](https://www.credly.com/badges/58514939-f430-4579-a710-8b92a7a7b074?source=linked_in_profile)
 [![GitOps with ArgoCD](https://img.shields.io/badge/GitOps%20%20Fundamentals-2E7E23?style=flat-square&logo=Git)](https://codefresh.learnworlds.com/certificate/6197cb3b2fbcec4da328aab2/user/61babbd1315a475fa83cb7d6)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20DevOps%20Expert%20AZ%20400-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/61f4f21f-22de-4e8d-b91b-a30420b65f20)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/6c366bc7-1e49-48f4-a8b4-2d2dde503c5b?source=linked_in_profile)
