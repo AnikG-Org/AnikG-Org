@@ -11,7 +11,10 @@
       <img alt="AWS" src="https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <p align="center">     
     <a href="[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)]">
-      <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" />   
+      <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" /> 
+    <p align="center">     
+    <a href="[![CKAD](https://img.shields.io/badge/CKAD%-232F7E?style=flat-square&logo=Kubernetes)]">
+      <img alt="CKAD" src="https://img.shields.io/badge/CKAD-232F7E?style=flat-square&logo=Kubernetes" /> 
     </a>
     </a>
     </a>
