@@ -90,7 +90,7 @@
  <b>ELECTRONICS & COMMUNICATION ENGINEER BY CERTIFICATION </b>
   -- <b>IT PROFESSIONAL BY PASSION </b>
 
- I'm <b> ANIK </b>, I’ve 6 year+(counting) of IT Experience(as of sept, 2021) in Digital IT Infrastructure domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind popular Technological Fields. 
+ I'm <b> ANIK </b>, I’ve 7 year+(counting) of IT Experience(as of sept, 2021) in Digital IT Infrastructure domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind popular Technological Fields. 
 
 
 
@@ -104,7 +104,7 @@
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/6c366bc7-1e49-48f4-a8b4-2d2dde503c5b?source=linked_in_profile)
  [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-FF0000?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile)
  [![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile)
- [![CKAD Certified](https://img.shields.io/badge/CKAD-232F7E?style=flat-square&logo=Kubernetes)]([https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile](https://www.credly.com/badges/9914707f-549a-43fd-b06d-d8e7e09ad482/linked_in?t=rirnhf))
+ [![CKAD Certified](https://img.shields.io/badge/CKAD%20Certified-232F7E?style=flat-square&logo=Kubernetes)]([https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile](https://www.credly.com/badges/9914707f-549a-43fd-b06d-d8e7e09ad482/linked_in?t=rirnhf))
 
 ## My Profile (Curriculum vitae) >>> 📑
 
