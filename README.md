@@ -90,7 +90,10 @@
  <b>ELECTRONICS & COMMUNICATION ENGINEER BY CERTIFICATION </b>
   -- <b>IT PROFESSIONAL BY PASSION </b>
 
- I'm <b> ANIK </b>, I’ve 8 year+(counting) of IT Experience(as of sept, 2021) in Digital IT Infrastructure & Automation domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind popular Technological Fields. 
+
+I am <b> ANIK </b>, and as of September 2023, I possess over 8 years of experience in the IT industry, specializing in Digital IT Infrastructure & Automation. My expertise spans a wide range of areas, including <b> AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall management, DevOps automation, Monitoring & Alerting, Infrastructure as Code (IAAC), Continuous Integration/Continuous Deployment (CI/CD), Microservice Orchestration, Infrastructure security, </b> and more. I hold a <b>B.Tech</b> degree in Electronics and Communication Engineering, which I completed in 2015.
+
+Professionally, I am known for my strong aptitude for learning and my ability to thrive in multicultural environments. I have a friendly disposition and excel at motivating team members. Through a combination of intelligence and hard work, I have honed effective research and analytical skills, allowing me to consistently meet deadlines even in high-pressure situations. I have always been passionate about delving into the fundamental concepts that underpin emerging technologies and technological fields.
 
 
 
@@ -221,7 +224,6 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 
    
 <img height="120" alt="Thanks for visiting me  @nik" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
 
 
 
