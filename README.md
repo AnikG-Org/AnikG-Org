@@ -108,6 +108,8 @@ Professionally, I am known for my strong aptitude for learning and my ability to
  [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-FF0000?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile)
  [![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile)
  [![CKAD Certified](https://img.shields.io/badge/CKAD%20Certified-232F7E?style=flat-square&logo=Kubernetes)]([https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile](https://www.credly.com/badges/9914707f-549a-43fd-b06d-d8e7e09ad482/linked_in?t=rirnhf))
+ [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:Designing-Microsoft-Azure-Infrastructure-Solutions-AZ%20305-232F7E?style=flat-square&logo=microsoft-azure)](https://drive.google.com/file/d/1Kv09LGwCko_BYVxbvxIKmPwxYrbyiRNW/view?usp=drive_link)
+ 
 
 ## My Profile (Curriculum vitae) >>> 📑
 
